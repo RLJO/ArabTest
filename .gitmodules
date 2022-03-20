@@ -7,3 +7,8 @@
 	path = RLJO/xtendoo
 	url = git@github.com:RLJO/xtendoo.git
 	branch = 15.0
+
+[submodule "jotate70/new-addons-Odoo"]
+	path = jotate70/new-addons-Odoo
+	url = git@github.com:jotate70/new-addons-Odoo.git
+	branch = 15.0
