@@ -95,3 +95,8 @@
 	path = xtendoo-corporation/custom-dxt-formacion
 	url = git@github.com:xtendoo-corporation/custom-dxt-formacion.git
 	branch = 15.0
+
+[submodule "RLJO/custom-dxt-formacion"]
+	path = RLJO/custom-dxt-formacion
+	url = git@github.com:RLJO/custom-dxt-formacion.git
+	branch = 15.0
