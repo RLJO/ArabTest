@@ -22,3 +22,8 @@
 	path = jotate70/Custom-addons-Odoo
 	url = git@github.com:jotate70/Custom-addons-Odoo.git
 	branch = 15.0
+
+[submodule "Redsea2022/RedSea"]
+	path = Redsea2022/RedSea
+	url = git@github.com:Redsea2022/RedSea.git
+	branch = Master
