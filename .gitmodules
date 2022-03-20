@@ -12,3 +12,8 @@
 	path = jotate70/new-addons-Odoo
 	url = git@github.com:jotate70/new-addons-Odoo.git
 	branch = 15.0
+
+[submodule "lq-todoo/lizethtest15"]
+	path = lq-todoo/lizethtest15
+	url = git@github.com:lq-todoo/lizethtest15.git
+	branch = main
