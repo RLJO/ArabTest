@@ -90,3 +90,8 @@
 	path = sh_corpomate_theme
 	url = https://github.com/esakarya/sh_corpomate_theme.git
 	branch = 15.0
+
+[submodule "xtendoo-corporation/custom-dxt-formacion"]
+	path = xtendoo-corporation/custom-dxt-formacion
+	url = git@github.com:xtendoo-corporation/custom-dxt-formacion.git
+	branch = 15.0
