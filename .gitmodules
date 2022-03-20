@@ -1,0 +1,4 @@
+[submodule "xtendoo-corporation/custom-dxt-formacion"]
+	path = xtendoo-corporation/custom-dxt-formacion
+	url = git@github.com:xtendoo-corporation/custom-dxt-formacion.git
+	branch = 15.0
