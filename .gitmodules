@@ -2,3 +2,8 @@
 	path = RLJO/silver_star
 	url = git@github.com:RLJO/silver_star.git
 	branch = stage
+
+[submodule "RLJO/addons_ecommerce_sarinah"]
+	path = RLJO/addons_ecommerce_sarinah
+	url = git@github.com:RLJO/addons_ecommerce_sarinah.git
+	branch = 7syn
