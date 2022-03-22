@@ -37,3 +37,8 @@
 	path = RLJO/addons_ecommerce_sarinah
 	url = git@github.com:RLJO/addons_ecommerce_sarinah.git
 	branch = ghiyat
+
+[submodule "h3llopy/UpdatedDeliveryBoy"]
+	path = h3llopy/UpdatedDeliveryBoy
+	url = git@github.com:h3llopy/UpdatedDeliveryBoy.git
+	branch = main
