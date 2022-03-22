@@ -1,0 +1,4 @@
+[submodule "RLJO/silver_star"]
+	path = RLJO/silver_star
+	url = git@github.com:RLJO/silver_star.git
+	branch = stage
